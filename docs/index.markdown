@@ -8,4 +8,4 @@ layout: home
 # Welcome to my personal website!
 You can learn some information about me:
 - [about me](about/)
-- [my blog](_posts/2025-04-17-welcome-to-jekyll.markdown)
+- [my blog](_posts/blog_one/)
