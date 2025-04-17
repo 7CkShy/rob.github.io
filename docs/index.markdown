@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Welcome to my personal website!
+You can learn some information about me:
+- [about me](about/)
