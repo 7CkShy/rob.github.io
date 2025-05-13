@@ -7,5 +7,6 @@ layout: home
 
 # Welcome to my personal website!
 You can learn some information about me:
+- [My Github](https://github.com/7CkShy)
 - [about me](about/)
 - [my blog](_posts/blog_one/)
