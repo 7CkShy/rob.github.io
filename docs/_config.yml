@@ -21,7 +21,7 @@
 title: CkShy 
 email: 3277652176@qq.com
 description: "Hello!"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://github.com/7CkShy" # the subpath of your site, e.g. /blog
 url: "https://github.com/7CkShy" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
