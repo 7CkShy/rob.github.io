@@ -25,6 +25,18 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+这是我的第一篇博客文章，我会在这里分享我的学习心得和研究成果。
+
+## 主要内容
+- 学习 Jekyll 的基本用法
+- 如何设置博客的结构
+- Markdown 语法入门
+
+### 代码示例
+以下是一个 Ruby 代码块的示例：
+{% highlight ruby %}
+def greet(name)
+  puts "Hello, #{name}!"
+end
+greet('World')
+{% endhighlight %}
