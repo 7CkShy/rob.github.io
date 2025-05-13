@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "This is my reserch in my study"
 date:   2025-04-17 13:01:37 +0800
 categories: jekyll update
 permalink: /blog_one/
