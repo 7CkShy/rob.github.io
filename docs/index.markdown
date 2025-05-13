@@ -9,4 +9,4 @@ layout: home
 You can learn some information about me:
 - [My Github](https://github.com/7CkShy)
 - [about me](about/)
-- [my blog](_posts/)
+- [my blog](https://github.com/7CkShy/rob.github.io/tree/45ab614135e6846593b789598428767bd182350a/docs/_posts)
