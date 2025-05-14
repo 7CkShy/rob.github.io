@@ -6,6 +6,11 @@
   <title>{{ site.title }}</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
     body {
       font-family: 'Roboto', sans-serif;
       margin: 0;
@@ -13,6 +18,9 @@
       line-height: 1.6;
       background-color: #f4f4f9;
       color: #333;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
     }
     header {
       background: #333;
@@ -38,6 +46,7 @@
       text-decoration: underline;
     }
     main {
+      flex: 1; /* 让 main 区域占据剩余空间 */
       max-width: 800px;
       margin: 2rem auto;
       padding: 1rem;
@@ -50,7 +59,6 @@
       padding: 1rem 0;
       background: #333;
       color: #fff;
-      margin-top: 2rem;
     }
     footer p {
       margin: 0;
